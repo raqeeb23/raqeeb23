@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raqeeb23
 - 👀 I’m interested in iOS Developement
-- 🌱 I’m currently learning SwiftUI and Combine
+- 🌱 Curious SwiftUI and Combine
 - 💞️ I’m looking to collaborate on SwiftUI Projects
 - 📫 How to reach me on instagram raqeeb.swift
 
